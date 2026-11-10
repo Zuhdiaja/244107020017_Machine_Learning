@@ -1,0 +1,20 @@
+# Editor / sistem
+.vscode/
+__pycache__/
+*.pyc
+
+# Virtual environment
+.venv/
+venv/
+
+# Dataset (mengikuti pola repo: hanya notebook yang di-push)
+JS06_ANN/songs_with_attributes_and_lyrics.csv
+JS06_Regresi/dataset/
+JS09/dataset/
+JS11/dataset/
+PBL/dataset/
+PBL/Exsperimen/Malicious URL Detection.csv
+PBL/Exsperimen/MURL_Split.csv
+PBL/Exsperimen/public_suffix_list.dat
+PBL/Exsperimen/results/
+PBL/Exsperimen/results_vp/
